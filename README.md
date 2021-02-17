@@ -37,9 +37,9 @@
 $ git clone https://github.com/raphael-augusto/TabBarAnimated.git
 
 
-# Instalar Dependências no back e no front
+# Instalar Dependências
 $ yarn
 
 
 # Iniciando o app
-$ yarn npx react-native run-android
+$ npx react-native run-android
